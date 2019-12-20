@@ -1,0 +1,58 @@
+{
+    "name": "WayBlazer",
+    "description": "WayBlazer uses artificial intelligence-driven software to transform online travel planning",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28273-www-wayblazer-ai.jpg",
+    "tags": [
+        "artificial intelligence",
+        "have api",
+        "marketplaces",
+        "new"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/wayblazer\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "WayBlazer",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28273-www-wayblazer-ai.jpg",
+            "humanURL": "https:\/\/www.wayblazer.ai",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/wayblazer-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/wayblazer"
+        },
+        {
+            "type": "Email",
+            "url": "howdy@wayblazer.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@wayblazer.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@wayblazer.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/WayBlazer"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.wayblazer.ai"
+        }
+    ]
+}
